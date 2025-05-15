@@ -35,7 +35,7 @@ export const navigation = [
         url: "#experience",
     },
     {
-        id: "4",
+        id: "5",
         title: "Contacto",
         url: "#contact",
     },

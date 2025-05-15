@@ -9,19 +9,19 @@ function Experience() {
         <div className='my-8'>
           <span className='font-semibold text-blue-400'>Marzo 2024 - Octubre 2024</span>
         </div>
-        <ul class="list-disc list-inside marker:text-blue-500 text-white space-y-2 text-left lg:mx-20">
-          <li class="text-justify lg:mx-20">
+        <ul className="list-disc list-inside marker:text-blue-500 text-white space-y-2 text-left lg:mx-20">
+          <li className="text-justify lg:mx-20">
             Participé activamente en el rediseño de interfaces de usuario, implementando las vistas a partir de archivos PSD, cuidando la precisión visual y la usabilidad. 
           </li>
-          <li class="text-justify lg:mx-20">
+          <li className="text-justify lg:mx-20">
             Realicé la identificación en implementación de la lógica de backend del cálculo de una funcionalidad 
             de test LIFO en conjunto con el diseño de una interfaz amigable. 
           </li>
-          <li class=" text-justify lg:mx-20">
+          <li className=" text-justify lg:mx-20">
             Contribuí en el desarrollo de filtros avanzados para la búsqueda de empleos, permitiendo combinar múltiples criterios 
             de búsqueda. 
           </li>
-          <li class=" text-justify lg:mx-20">
+          <li className=" text-justify lg:mx-20">
             Trabajé bajo el marco de la metodología SCRUM. 
           </li>
         </ul>
@@ -37,15 +37,15 @@ function Experience() {
         <div className='my-8'>
           <span className='font-semibold text-blue-300'>Julio 2023 - Diciembre 2023</span>
         </div>
-        <ul class="list-disc list-inside marker:text-blue-500 text-white space-y-2 text-left lg:mx-20">
-          <li class="text-justify lg:mx-20">
+        <ul className="list-disc list-inside marker:text-blue-500 text-white space-y-2 text-left lg:mx-20">
+          <li className="text-justify lg:mx-20">
             Desarrollé software orientado a la App Móvil y Web Empresarial.  
           </li>
-          <li class="text-justify lg:mx-20">
+          <li className="text-justify lg:mx-20">
             Implementé las interfaces de usuario y otras tareas de Frontend de un módulo de Bienes Raíces y el 
             consumo de servicios dentro de la aplicación. 
           </li>
-          <li class=" text-justify lg:mx-20">
+          <li className=" text-justify lg:mx-20">
             Encargada del desarrollo de servicios API RESTful para el mismo módulo. 
           </li>
         </ul>
