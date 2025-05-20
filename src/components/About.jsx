@@ -12,11 +12,11 @@ function About() {
         <h2 className='text-4xl font-bold text-color-6 mt-10 lg:my-4'>Sobre mí</h2>
         <h3 className='font-bold lg:my-4 my-5 text-blue-400 text-xl'>Full-Stack Developer</h3>
         <p className='text-blue-950 mb-5 text-justify'>
-          Soy una Desarrolladora Junior orientada al detalle con una base sólida en desarrollo de software y desarrollo
-          web full-stack.
+          Soy una Desarrolladora Full-Stack en formación con enfoque en Front-End orientada al detalle con una base sólida en desarrollo de software y desarrollo
+          web.
         </p>
-        <p className='text-blue-950 mb-10 text-justify'>Con habilidades en Laravel, React, SQL, Git, entre otras tecnologías y con experiencia sólida
-          en el desarrollo de interfaces de usuario responsivas.</p>
+        <p className='text-blue-950 mb-10 text-justify'>Con habilidades en Laravel, React, NodeJS, Git, entre otras tecnologías y con experiencia sólida
+          en maquetación de interfaces de usuario a partir de diseños con precisión.</p>
         <div className='flex justify-center md:justify-start'>
           <Button type="blue" content="Experiencia" href="#experience" />
         </div>

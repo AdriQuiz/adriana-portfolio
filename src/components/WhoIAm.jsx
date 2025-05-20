@@ -13,7 +13,7 @@ function WhoIAm() {
                     <Button content={'Proyectos'} type={'white'} href={'#projects'} />
                 </div>
             </div>
-            <div className='flex items-center justify-center'>
+            <div className='flex items-center justify-center mb-20 lg:mb-0'>
                 <img src={my_image_nbg} alt="my image" className='rounded-full ring-4 ring-blue-400 lg:h-96 lg:w-96' />
             </div>
         </div>

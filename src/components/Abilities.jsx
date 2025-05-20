@@ -10,7 +10,8 @@ function Abilities() {
             <div className='grid grid-cols-1 md:grid-cols-2 
             lg:grid-cols-3 gap-6 bg-color-6 m-2 lg:px-32 lg:py-10'>
                 {stackItems.map((item) => (
-                    <div key={item.id} className='bg-white rounded-lg py-5 flex items-center justify-center h-[150px]'>
+                    <div key={item.id} className='bg-white rounded-lg py-5 flex items-center justify-center h-[150px] outline-none
+                    hover:ring-4 hover:ring-blue-400 transform hover:-translate-y-2 transition duration-300'>
                         <img src={item.photo} alt="photo" width={70} height={70} className='mx-4' />
                         <p className='text-color-6 font-bold'>{item.name}</p>
                     </div>
